@@ -1,0 +1,23 @@
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 依赖与构建
+node_modules/
+dist/
+build/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 编辑器
+.vscode/
+.idea/
+
+# 敏感信息
+.env
+.env.local
+*.key
+*.pem
